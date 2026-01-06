@@ -1,0 +1,46 @@
+[
+  {
+    "employeeId": "E1001",
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john.doe@example.com",
+    "gender": "Male",
+    "newJoiner": true,
+    "learningPending": true,
+    "salary": 65000,
+    "rating": 4.2
+  },
+  {
+    "employeeId": "E1002",
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "email": "jane.smith@example.com",
+    "gender": "Female",
+    "newJoiner": false,
+    "learningPending": false,
+    "salary": 82000,
+    "rating": 4.7
+  },
+  {
+    "employeeId": "E1003",
+    "firstname": "Arjun",
+    "lastname": "Kumar",
+    "email": "arjun.kumar@example.com",
+    "gender": "Male",
+    "newJoiner": true,
+    "learningPending": false,
+    "salary": 58000,
+    "rating": 3.9
+  },
+  {
+    "employeeId": "E1004",
+    "firstname": "Emily",
+    "lastname": "Brown",
+    "email": "emily.brown@example.com",
+    "gender": "Female",
+    "newJoiner": false,
+    "learningPending": true,
+    "salary": 91000,
+    "rating": 4.8
+  }
+]
